@@ -1,1 +1,1 @@
-# aoi-v6-bos
+Bu Bot Mikail Ceylan Tarafından Hazırlanmıştır..
